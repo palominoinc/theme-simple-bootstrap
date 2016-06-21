@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<README id="READXGPyF3JzBv3p" lang="any" webpalschematype="wpHtml"><h1>Simple Bootstrap Theme</h1>
+
+<p>This is a<ch value="nbsp"/><strong>very</strong><ch value="nbsp"/>basic site theme, useful for getting started from a 'blank slate'.</p>
+
+<p>Use this theme as an extension to your <a data-display-inline="false" href="https://webpal.net">WebPal</a> site.</p>
+
+<p>Some attributes:</p>
+
+<ul><li>Bootstrap 3</li>
+	<li>Single-column layout</li>
+	<li>CSS and JS are sourced at various CDNs, thus the pages load very fast</li>
+	<li>basic use of navigation templates</li>
+	<li>dynamic rendering of Copyright dates</li>
+</ul><p><img alt="" data-file-id="137907337256707818" src="137907337256707818" style="vertical-align:bottom;" title="" width="630"/><img alt="" data-file-id="169793773213138911" src="169793773213138911" style="vertical-align:bottom;" title="" width="256"/></p>
+</README>
